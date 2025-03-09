@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Afghanistan",
     "topLevelDomain": [".af"],
     "alpha2Code": "AF",
@@ -72,6 +73,7 @@
     "independent": true
   },
   {
+    "id": 1,
     "name": "Åland Islands",
     "topLevelDomain": [".ax"],
     "alpha2Code": "AX",
@@ -130,6 +132,7 @@
     "independent": false
   },
   {
+    "id": 2,
     "name": "Albania",
     "topLevelDomain": [".al"],
     "alpha2Code": "AL",
@@ -191,6 +194,7 @@
     "independent": true
   },
   {
+    "id": 3,
     "name": "Algeria",
     "topLevelDomain": [".dz"],
     "alpha2Code": "DZ",
@@ -268,6 +272,7 @@
     "independent": true
   },
   {
+    "id": 4,
     "name": "American Samoa",
     "topLevelDomain": [".as"],
     "alpha2Code": "AS",
@@ -327,6 +332,7 @@
     "independent": false
   },
   {
+    "id": 5,
     "name": "Andorra",
     "topLevelDomain": [".ad"],
     "alpha2Code": "AD",
@@ -381,6 +387,7 @@
     "independent": true
   },
   {
+    "id": 6,
     "name": "Angola",
     "topLevelDomain": [".ao"],
     "alpha2Code": "AO",
@@ -449,6 +456,7 @@
     "independent": true
   },
   {
+    "id": 7,
     "name": "Anguilla",
     "topLevelDomain": [".ai"],
     "alpha2Code": "AI",
@@ -501,6 +509,7 @@
     "independent": false
   },
   {
+    "id": 8,
     "name": "Antarctica",
     "topLevelDomain": [".aq"],
     "alpha2Code": "AQ",
@@ -559,6 +568,7 @@
     "independent": false
   },
   {
+    "id": 9,
     "name": "Antigua and Barbuda",
     "topLevelDomain": [".ag"],
     "alpha2Code": "AG",
@@ -623,6 +633,7 @@
     "independent": true
   },
   {
+    "id": 10,
     "name": "Argentina",
     "topLevelDomain": [".ar"],
     "alpha2Code": "AR",
@@ -697,6 +708,7 @@
     "independent": true
   },
   {
+    "id": 11,
     "name": "Armenia",
     "topLevelDomain": [".am"],
     "alpha2Code": "AM",
@@ -764,6 +776,7 @@
     "independent": true
   },
   {
+    "id": 12,
     "name": "Aruba",
     "topLevelDomain": [".aw"],
     "alpha2Code": "AW",
@@ -823,6 +836,7 @@
     "independent": true
   },
   {
+    "id": 13,
     "name": "Australia",
     "topLevelDomain": [".au"],
     "alpha2Code": "AU",
@@ -886,6 +900,7 @@
     "independent": true
   },
   {
+    "id": 14,
     "name": "Austria",
     "topLevelDomain": [".at"],
     "alpha2Code": "AT",
@@ -947,6 +962,7 @@
     "independent": true
   },
   {
+    "id": 15,
     "name": "Azerbaijan",
     "topLevelDomain": [".az"],
     "alpha2Code": "AZ",
@@ -1002,6 +1018,7 @@
     "independent": true
   },
   {
+    "id": 16,
     "name": "Bahamas",
     "topLevelDomain": [".bs"],
     "alpha2Code": "BS",
@@ -1066,6 +1083,7 @@
     "independent": true
   },
   {
+    "id": 17,
     "name": "Bahrain",
     "topLevelDomain": [".bh"],
     "alpha2Code": "BH",
@@ -1130,6 +1148,7 @@
     "independent": true
   },
   {
+    "id": 18,
     "name": "Bangladesh",
     "topLevelDomain": [".bd"],
     "alpha2Code": "BD",
@@ -1195,6 +1214,7 @@
     "independent": true
   },
   {
+    "id": 19,
     "name": "Barbados",
     "topLevelDomain": [".bb"],
     "alpha2Code": "BB",
@@ -1259,6 +1279,7 @@
     "independent": true
   },
   {
+    "id": 20,
     "name": "Belarus",
     "topLevelDomain": [".by"],
     "alpha2Code": "BY",
@@ -1340,6 +1361,7 @@
     "independent": true
   },
   {
+    "id": 21,
     "name": "Belgium",
     "topLevelDomain": [".be"],
     "alpha2Code": "BE",
@@ -1423,6 +1445,7 @@
     "independent": true
   },
   {
+    "id": 22,
     "name": "Belize",
     "topLevelDomain": [".bz"],
     "alpha2Code": "BZ",
@@ -1501,6 +1524,7 @@
     "independent": true
   },
   {
+    "id": 23,
     "name": "Benin",
     "topLevelDomain": [".bj"],
     "alpha2Code": "BJ",
@@ -1569,6 +1593,7 @@
     "independent": true
   },
   {
+    "id": 24,
     "name": "Bermuda",
     "topLevelDomain": [".bm"],
     "alpha2Code": "BM",
@@ -1627,6 +1652,7 @@
     "independent": false
   },
   {
+    "id": 25,
     "name": "Bhutan",
     "topLevelDomain": [".bt"],
     "alpha2Code": "BT",
@@ -1693,6 +1719,7 @@
     "independent": true
   },
   {
+    "id": 26,
     "name": "Bolivia (Plurinational State of)",
     "topLevelDomain": [".bo"],
     "alpha2Code": "BO",
@@ -1782,6 +1809,7 @@
     "independent": true
   },
   {
+    "id": 27,
     "name": "Bonaire, Sint Eustatius and Saba",
     "topLevelDomain": [".an", ".nl"],
     "alpha2Code": "BQ",
@@ -1834,6 +1862,7 @@
     "independent": true
   },
   {
+    "id": 28,
     "name": "Bosnia and Herzegovina",
     "topLevelDomain": [".ba"],
     "alpha2Code": "BA",
@@ -1907,6 +1936,7 @@
     "independent": true
   },
   {
+    "id": 29,
     "name": "Botswana",
     "topLevelDomain": [".bw"],
     "alpha2Code": "BW",
@@ -1981,6 +2011,7 @@
     "independent": true
   },
   {
+    "id": 30,
     "name": "Bouvet Island",
     "topLevelDomain": [".bv"],
     "alpha2Code": "BV",
@@ -2044,6 +2075,7 @@
     "independent": false
   },
   {
+    "id": 31,
     "name": "Brazil",
     "topLevelDomain": [".br"],
     "alpha2Code": "BR",
@@ -2129,6 +2161,7 @@
     "independent": true
   },
   {
+    "id": 32,
     "name": "British Indian Ocean Territory",
     "topLevelDomain": [".io"],
     "alpha2Code": "IO",
@@ -2194,6 +2227,7 @@
     "independent": true
   },
   {
+    "id": 33,
     "name": "United States Minor Outlying Islands",
     "topLevelDomain": [".us"],
     "alpha2Code": "UM",
@@ -2243,6 +2277,7 @@
     "independent": false
   },
   {
+    "id": 34,
     "name": "Virgin Islands (British)",
     "topLevelDomain": [".vg"],
     "alpha2Code": "VG",
@@ -2296,6 +2331,7 @@
     "independent": false
   },
   {
+    "id": 35,
     "name": "Virgin Islands (U.S.)",
     "topLevelDomain": [".vi"],
     "alpha2Code": "VI",
@@ -2354,6 +2390,7 @@
     "independent": false
   },
   {
+    "id": 36,
     "name": "Brunei Darussalam",
     "topLevelDomain": [".bn"],
     "alpha2Code": "BN",
@@ -2419,6 +2456,7 @@
     "independent": true
   },
   {
+    "id": 37,
     "name": "Bulgaria",
     "topLevelDomain": [".bg"],
     "alpha2Code": "BG",
@@ -2480,6 +2518,7 @@
     "independent": true
   },
   {
+    "id": 38,
     "name": "Burkina Faso",
     "topLevelDomain": [".bf"],
     "alpha2Code": "BF",
@@ -2554,6 +2593,7 @@
     "independent": true
   },
   {
+    "id": 39,
     "name": "Burundi",
     "topLevelDomain": [".bi"],
     "alpha2Code": "BI",
@@ -2633,6 +2673,7 @@
     "independent": true
   },
   {
+    "id": 40,
     "name": "Cambodia",
     "topLevelDomain": [".kh"],
     "alpha2Code": "KH",
@@ -2698,6 +2739,7 @@
     "independent": true
   },
   {
+    "id": 41,
     "name": "Cameroon",
     "topLevelDomain": [".cm"],
     "alpha2Code": "CM",
@@ -2772,6 +2814,7 @@
     "independent": true
   },
   {
+    "id": 42,
     "name": "Canada",
     "topLevelDomain": [".ca"],
     "alpha2Code": "CA",
@@ -2850,6 +2893,7 @@
     "independent": true
   },
   {
+    "id": 43,
     "name": "Cabo Verde",
     "topLevelDomain": [".cv"],
     "alpha2Code": "CV",
@@ -2917,6 +2961,7 @@
     "independent": true
   },
   {
+    "id": 44,
     "name": "Cayman Islands",
     "topLevelDomain": [".ky"],
     "alpha2Code": "KY",
@@ -2970,6 +3015,7 @@
     "independent": false
   },
   {
+    "id": 45,
     "name": "Central African Republic",
     "topLevelDomain": [".cf"],
     "alpha2Code": "CF",
@@ -3048,6 +3094,7 @@
     "independent": true
   },
   {
+    "id": 46,
     "name": "Chad",
     "topLevelDomain": [".td"],
     "alpha2Code": "TD",
@@ -3122,6 +3169,7 @@
     "independent": true
   },
   {
+    "id": 47,
     "name": "Chile",
     "topLevelDomain": [".cl"],
     "alpha2Code": "CL",
@@ -3195,6 +3243,7 @@
     "independent": true
   },
   {
+    "id": 48,
     "name": "China",
     "topLevelDomain": [".cn"],
     "alpha2Code": "CN",
@@ -3275,6 +3324,7 @@
     "independent": true
   },
   {
+    "id": 49,
     "name": "Christmas Island",
     "topLevelDomain": [".cx"],
     "alpha2Code": "CX",
@@ -3327,6 +3377,7 @@
     "independent": false
   },
   {
+    "id": 50,
     "name": "Cocos (Keeling) Islands",
     "topLevelDomain": [".cc"],
     "alpha2Code": "CC",
@@ -3383,6 +3434,7 @@
     "independent": false
   },
   {
+    "id": 51,
     "name": "Colombia",
     "topLevelDomain": [".co"],
     "alpha2Code": "CO",
@@ -3456,6 +3508,7 @@
     "independent": true
   },
   {
+    "id": 52,
     "name": "Comoros",
     "topLevelDomain": [".km"],
     "alpha2Code": "KM",
@@ -3544,6 +3597,7 @@
     "independent": true
   },
   {
+    "id": 53,
     "name": "Congo",
     "topLevelDomain": [".cg"],
     "alpha2Code": "CG",
@@ -3618,6 +3672,7 @@
     "independent": true
   },
   {
+    "id": 54,
     "name": "Congo (Democratic Republic of the)",
     "topLevelDomain": [".cd"],
     "alpha2Code": "CD",
@@ -3710,6 +3765,7 @@
     "independent": true
   },
   {
+    "id": 55,
     "name": "Cook Islands",
     "topLevelDomain": [".ck"],
     "alpha2Code": "CK",
@@ -3773,6 +3829,7 @@
     "independent": true
   },
   {
+    "id": 56,
     "name": "Costa Rica",
     "topLevelDomain": [".cr"],
     "alpha2Code": "CR",
@@ -3836,6 +3893,7 @@
     "independent": true
   },
   {
+    "id": 57,
     "name": "Croatia",
     "topLevelDomain": [".hr"],
     "alpha2Code": "HR",
@@ -3902,6 +3960,7 @@
     "independent": true
   },
   {
+    "id": 58,
     "name": "Cuba",
     "topLevelDomain": [".cu"],
     "alpha2Code": "CU",
@@ -3960,6 +4019,7 @@
     "independent": true
   },
   {
+    "id": 59,
     "name": "Curaçao",
     "topLevelDomain": [".cw"],
     "alpha2Code": "CW",
@@ -4031,6 +4091,7 @@
     "independent": false
   },
   {
+    "id": 60,
     "name": "Cyprus",
     "topLevelDomain": [".cy"],
     "alpha2Code": "CY",
@@ -4111,6 +4172,7 @@
     "independent": true
   },
   {
+    "id": 61,
     "name": "Czech Republic",
     "topLevelDomain": [".cz"],
     "alpha2Code": "CZ",
@@ -4177,6 +4239,7 @@
     "independent": true
   },
   {
+    "id": 62,
     "name": "Denmark",
     "topLevelDomain": [".dk"],
     "alpha2Code": "DK",
@@ -4243,6 +4306,7 @@
     "independent": true
   },
   {
+    "id": 63,
     "name": "Djibouti",
     "topLevelDomain": [".dj"],
     "alpha2Code": "DJ",
@@ -4334,6 +4398,7 @@
     "independent": true
   },
   {
+    "id": 64,
     "name": "Dominica",
     "topLevelDomain": [".dm"],
     "alpha2Code": "DM",
@@ -4392,6 +4457,7 @@
     "independent": true
   },
   {
+    "id": 65,
     "name": "Dominican Republic",
     "topLevelDomain": [".do"],
     "alpha2Code": "DO",
@@ -4464,6 +4530,7 @@
     "independent": true
   },
   {
+    "id": 66,
     "name": "Ecuador",
     "topLevelDomain": [".ec"],
     "alpha2Code": "EC",
@@ -4532,6 +4599,7 @@
     "independent": true
   },
   {
+    "id": 67,
     "name": "Egypt",
     "topLevelDomain": [".eg"],
     "alpha2Code": "EG",
@@ -4609,6 +4677,7 @@
     "independent": true
   },
   {
+    "id": 68,
     "name": "El Salvador",
     "topLevelDomain": [".sv"],
     "alpha2Code": "SV",
@@ -4676,6 +4745,7 @@
     "independent": true
   },
   {
+    "id": 69,
     "name": "Equatorial Guinea",
     "topLevelDomain": [".gq"],
     "alpha2Code": "GQ",
@@ -4766,6 +4836,7 @@
     "independent": true
   },
   {
+    "id": 70,
     "name": "Eritrea",
     "topLevelDomain": [".er"],
     "alpha2Code": "ER",
@@ -4884,6 +4955,7 @@
     "independent": true
   },
   {
+    "id": 71,
     "name": "Estonia",
     "topLevelDomain": [".ee"],
     "alpha2Code": "EE",
@@ -4945,6 +5017,7 @@
     "independent": true
   },
   {
+    "id": 72,
     "name": "Ethiopia",
     "topLevelDomain": [".et"],
     "alpha2Code": "ET",
@@ -5018,6 +5091,7 @@
     "independent": true
   },
   {
+    "id": 73,
     "name": "Falkland Islands (Malvinas)",
     "topLevelDomain": [".fk"],
     "alpha2Code": "FK",
@@ -5083,6 +5157,7 @@
     "independent": false
   },
   {
+    "id": 74,
     "name": "Faroe Islands",
     "topLevelDomain": [".fo"],
     "alpha2Code": "FO",
@@ -5140,6 +5215,7 @@
     "independent": false
   },
   {
+    "id": 75,
     "name": "Fiji",
     "topLevelDomain": [".fj"],
     "alpha2Code": "FJ",
@@ -5216,6 +5292,7 @@
     "independent": true
   },
   {
+    "id": 76,
     "name": "Finland",
     "topLevelDomain": [".fi"],
     "alpha2Code": "FI",
@@ -5289,6 +5366,7 @@
     "independent": true
   },
   {
+    "id": 77,
     "name": "France",
     "topLevelDomain": [".fr"],
     "alpha2Code": "FR",
@@ -5365,6 +5443,7 @@
     "independent": true
   },
   {
+    "id": 78,
     "name": "French Guiana",
     "topLevelDomain": [".gf"],
     "alpha2Code": "GF",
@@ -5434,6 +5513,7 @@
     "independent": false
   },
   {
+    "id": 79,
     "name": "French Polynesia",
     "topLevelDomain": [".pf"],
     "alpha2Code": "PF",
@@ -5491,6 +5571,7 @@
     "independent": false
   },
   {
+    "id": 80,
     "name": "French Southern Territories",
     "topLevelDomain": [".tf"],
     "alpha2Code": "TF",
@@ -5556,6 +5637,7 @@
     "independent": false
   },
   {
+    "id": 81,
     "name": "Gabon",
     "topLevelDomain": [".ga"],
     "alpha2Code": "GA",
@@ -5624,6 +5706,7 @@
     "independent": true
   },
   {
+    "id": 82,
     "name": "Gambia",
     "topLevelDomain": [".gm"],
     "alpha2Code": "GM",
@@ -5692,6 +5775,7 @@
     "independent": true
   },
   {
+    "id": 83,
     "name": "Georgia",
     "topLevelDomain": [".ge"],
     "alpha2Code": "GE",
@@ -5747,6 +5831,7 @@
     "independent": true
   },
   {
+    "id": 84,
     "name": "Germany",
     "topLevelDomain": [".de"],
     "alpha2Code": "DE",
@@ -5812,6 +5897,7 @@
     "independent": true
   },
   {
+    "id": 85,
     "name": "Ghana",
     "topLevelDomain": [".gh"],
     "alpha2Code": "GH",
@@ -5880,6 +5966,7 @@
     "independent": true
   },
   {
+    "id": 86,
     "name": "Gibraltar",
     "topLevelDomain": [".gi"],
     "alpha2Code": "GI",
@@ -5939,6 +6026,7 @@
     "independent": false
   },
   {
+    "id": 87,
     "name": "Greece",
     "topLevelDomain": [".gr"],
     "alpha2Code": "GR",
@@ -6005,6 +6093,7 @@
     "independent": true
   },
   {
+    "id": 88,
     "name": "Greenland",
     "topLevelDomain": [".gl"],
     "alpha2Code": "GL",
@@ -6057,6 +6146,7 @@
     "independent": false
   },
   {
+    "id": 89,
     "name": "Grenada",
     "topLevelDomain": [".gd"],
     "alpha2Code": "GD",
@@ -6121,6 +6211,7 @@
     "independent": true
   },
   {
+    "id": 90,
     "name": "Guadeloupe",
     "topLevelDomain": [".gp"],
     "alpha2Code": "GP",
@@ -6172,6 +6263,7 @@
     "independent": false
   },
   {
+    "id": 91,
     "name": "Guam",
     "topLevelDomain": [".gu"],
     "alpha2Code": "GU",
@@ -6237,6 +6329,7 @@
     "independent": false
   },
   {
+    "id": 92,
     "name": "Guatemala",
     "topLevelDomain": [".gt"],
     "alpha2Code": "GT",
@@ -6300,6 +6393,7 @@
     "independent": true
   },
   {
+    "id": 93,
     "name": "Guernsey",
     "topLevelDomain": [".gg"],
     "alpha2Code": "GG",
@@ -6363,6 +6457,7 @@
     "independent": false
   },
   {
+    "id": 94,
     "name": "Guinea",
     "topLevelDomain": [".gn"],
     "alpha2Code": "GN",
@@ -6437,6 +6532,7 @@
     "independent": true
   },
   {
+    "id": 95,
     "name": "Guinea-Bissau",
     "topLevelDomain": [".gw"],
     "alpha2Code": "GW",
@@ -6509,6 +6605,7 @@
     "independent": true
   },
   {
+    "id": 96,
     "name": "Guyana",
     "topLevelDomain": [".gy"],
     "alpha2Code": "GY",
@@ -6586,6 +6683,7 @@
     "independent": true
   },
   {
+    "id": 97,
     "name": "Haiti",
     "topLevelDomain": [".ht"],
     "alpha2Code": "HT",
@@ -6663,6 +6761,7 @@
     "independent": true
   },
   {
+    "id": 98,
     "name": "Heard Island and McDonald Islands",
     "topLevelDomain": [".hm", ".aq"],
     "alpha2Code": "HM",
@@ -6714,6 +6813,7 @@
     "independent": false
   },
   {
+    "id": 99,
     "name": "Vatican City",
     "topLevelDomain": [".va"],
     "alpha2Code": "VA",
@@ -6785,6 +6885,7 @@
     "independent": true
   },
   {
+    "id": 100,
     "name": "Honduras",
     "topLevelDomain": [".hn"],
     "alpha2Code": "HN",
@@ -6848,6 +6949,7 @@
     "independent": true
   },
   {
+    "id": 101,
     "name": "Hungary",
     "topLevelDomain": [".hu"],
     "alpha2Code": "HU",
@@ -6909,6 +7011,7 @@
     "independent": true
   },
   {
+    "id": 102,
     "name": "Hong Kong",
     "topLevelDomain": [".hk"],
     "alpha2Code": "HK",
@@ -6969,6 +7072,7 @@
     "independent": false
   },
   {
+    "id": 103,
     "name": "Iceland",
     "topLevelDomain": [".is"],
     "alpha2Code": "IS",
@@ -7029,6 +7133,7 @@
     "independent": true
   },
   {
+    "id": 104,
     "name": "India",
     "topLevelDomain": [".in"],
     "alpha2Code": "IN",
@@ -7096,6 +7201,7 @@
     "independent": true
   },
   {
+    "id": 105,
     "name": "Indonesia",
     "topLevelDomain": [".id"],
     "alpha2Code": "ID",
@@ -7157,6 +7263,7 @@
     "independent": true
   },
   {
+    "id": 106,
     "name": "Ivory Coast",
     "topLevelDomain": [".ci"],
     "alpha2Code": "CI",
@@ -7230,6 +7337,7 @@
     "independent": true
   },
   {
+    "id": 107,
     "name": "Iran (Islamic Republic of)",
     "topLevelDomain": [".ir"],
     "alpha2Code": "IR",
@@ -7289,6 +7397,7 @@
     "independent": true
   },
   {
+    "id": 108,
     "name": "Iraq",
     "topLevelDomain": [".iq"],
     "alpha2Code": "IQ",
@@ -7361,6 +7470,7 @@
     "independent": true
   },
   {
+    "id": 109,
     "name": "Ireland",
     "topLevelDomain": [".ie"],
     "alpha2Code": "IE",
@@ -7433,6 +7543,7 @@
     "independent": true
   },
   {
+    "id": 110,
     "name": "Isle of Man",
     "topLevelDomain": [".im"],
     "alpha2Code": "IM",
@@ -7502,6 +7613,7 @@
     "independent": false
   },
   {
+    "id": 111,
     "name": "Israel",
     "topLevelDomain": [".il"],
     "alpha2Code": "IL",
@@ -7563,6 +7675,7 @@
     "independent": true
   },
   {
+    "id": 112,
     "name": "Italy",
     "topLevelDomain": [".it"],
     "alpha2Code": "IT",
@@ -7624,6 +7737,7 @@
     "independent": true
   },
   {
+    "id": 113,
     "name": "Jamaica",
     "topLevelDomain": [".jm"],
     "alpha2Code": "JM",
@@ -7689,6 +7803,7 @@
     "independent": true
   },
   {
+    "id": 114,
     "name": "Japan",
     "topLevelDomain": [".jp"],
     "alpha2Code": "JP",
@@ -7743,6 +7858,7 @@
     "independent": true
   },
   {
+    "id": 115,
     "name": "Jersey",
     "topLevelDomain": [".je"],
     "alpha2Code": "JE",
@@ -7811,6 +7927,7 @@
     "independent": false
   },
   {
+    "id": 116,
     "name": "Jordan",
     "topLevelDomain": [".jo"],
     "alpha2Code": "JO",
@@ -7881,6 +7998,7 @@
     "independent": true
   },
   {
+    "id": 117,
     "name": "Kazakhstan",
     "topLevelDomain": [".kz", ".қаз"],
     "alpha2Code": "KZ",
@@ -7958,6 +8076,7 @@
     "independent": true
   },
   {
+    "id": 118,
     "name": "Kenya",
     "topLevelDomain": [".ke"],
     "alpha2Code": "KE",
@@ -8032,6 +8151,7 @@
     "independent": true
   },
   {
+    "id": 119,
     "name": "Kiribati",
     "topLevelDomain": [".ki"],
     "alpha2Code": "KI",
@@ -8091,6 +8211,7 @@
     "independent": true
   },
   {
+    "id": 120,
     "name": "Kuwait",
     "topLevelDomain": [".kw"],
     "alpha2Code": "KW",
@@ -8156,6 +8277,7 @@
     "independent": true
   },
   {
+    "id": 121,
     "name": "Kyrgyzstan",
     "topLevelDomain": [".kg"],
     "alpha2Code": "KG",
@@ -8230,6 +8352,7 @@
     "independent": true
   },
   {
+    "id": 122,
     "name": "Lao People's Democratic Republic",
     "topLevelDomain": [".la"],
     "alpha2Code": "LA",
@@ -8297,6 +8420,7 @@
     "independent": true
   },
   {
+    "id": 123,
     "name": "Latvia",
     "topLevelDomain": [".lv"],
     "alpha2Code": "LV",
@@ -8358,6 +8482,7 @@
     "independent": true
   },
   {
+    "id": 124,
     "name": "Lebanon",
     "topLevelDomain": [".lb"],
     "alpha2Code": "LB",
@@ -8430,6 +8555,7 @@
     "independent": true
   },
   {
+    "id": 125,
     "name": "Lesotho",
     "topLevelDomain": [".ls"],
     "alpha2Code": "LS",
@@ -8509,6 +8635,7 @@
     "independent": true
   },
   {
+    "id": 126,
     "name": "Liberia",
     "topLevelDomain": [".lr"],
     "alpha2Code": "LR",
@@ -8577,6 +8704,7 @@
     "independent": true
   },
   {
+    "id": 127,
     "name": "Libya",
     "topLevelDomain": [".ly"],
     "alpha2Code": "LY",
@@ -8653,6 +8781,7 @@
     "independent": true
   },
   {
+    "id": 128,
     "name": "Liechtenstein",
     "topLevelDomain": [".li"],
     "alpha2Code": "LI",
@@ -8717,6 +8846,7 @@
     "independent": true
   },
   {
+    "id": 129,
     "name": "Lithuania",
     "topLevelDomain": [".lt"],
     "alpha2Code": "LT",
@@ -8778,6 +8908,7 @@
     "independent": true
   },
   {
+    "id": 130,
     "name": "Luxembourg",
     "topLevelDomain": [".lu"],
     "alpha2Code": "LU",
@@ -8857,6 +8988,7 @@
     "independent": true
   },
   {
+    "id": 131,
     "name": "Macao",
     "topLevelDomain": [".mo"],
     "alpha2Code": "MO",
@@ -8921,6 +9053,7 @@
     "independent": false
   },
   {
+    "id": 132,
     "name": "North Macedonia",
     "topLevelDomain": [".mk"],
     "alpha2Code": "MK",
@@ -8981,6 +9114,7 @@
     "independent": true
   },
   {
+    "id": 133,
     "name": "Madagascar",
     "topLevelDomain": [".mg"],
     "alpha2Code": "MG",
@@ -9059,6 +9193,7 @@
     "independent": true
   },
   {
+    "id": 134,
     "name": "Malawi",
     "topLevelDomain": [".mw"],
     "alpha2Code": "MW",
@@ -9133,6 +9268,7 @@
     "independent": true
   },
   {
+    "id": 135,
     "name": "Malaysia",
     "topLevelDomain": [".my"],
     "alpha2Code": "MY",
@@ -9194,6 +9330,7 @@
     "independent": true
   },
   {
+    "id": 136,
     "name": "Maldives",
     "topLevelDomain": [".mv"],
     "alpha2Code": "MV",
@@ -9259,6 +9396,7 @@
     "independent": true
   },
   {
+    "id": 137,
     "name": "Mali",
     "topLevelDomain": [".ml"],
     "alpha2Code": "ML",
@@ -9327,6 +9465,7 @@
     "independent": true
   },
   {
+    "id": 138,
     "name": "Malta",
     "topLevelDomain": [".mt"],
     "alpha2Code": "MT",
@@ -9393,6 +9532,7 @@
     "independent": true
   },
   {
+    "id": 139,
     "name": "Marshall Islands",
     "topLevelDomain": [".mh"],
     "alpha2Code": "MH",
@@ -9456,6 +9596,7 @@
     "independent": true
   },
   {
+    "id": 140,
     "name": "Martinique",
     "topLevelDomain": [".mq"],
     "alpha2Code": "MQ",
@@ -9507,6 +9648,7 @@
     "independent": false
   },
   {
+    "id": 141,
     "name": "Mauritania",
     "topLevelDomain": [".mr"],
     "alpha2Code": "MR",
@@ -9588,6 +9730,7 @@
     "independent": true
   },
   {
+    "id": 142,
     "name": "Mauritius",
     "topLevelDomain": [".mu"],
     "alpha2Code": "MU",
@@ -9655,6 +9798,7 @@
     "independent": true
   },
   {
+    "id": 143,
     "name": "Mayotte",
     "topLevelDomain": [".yt"],
     "alpha2Code": "YT",
@@ -9719,6 +9863,7 @@
     "independent": false
   },
   {
+    "id": 144,
     "name": "Mexico",
     "topLevelDomain": [".mx"],
     "alpha2Code": "MX",
@@ -9794,6 +9939,7 @@
     "independent": true
   },
   {
+    "id": 145,
     "name": "Micronesia (Federated States of)",
     "topLevelDomain": [".fm"],
     "alpha2Code": "FM",
@@ -9848,6 +9994,7 @@
     "independent": true
   },
   {
+    "id": 146,
     "name": "Moldova (Republic of)",
     "topLevelDomain": [".md"],
     "alpha2Code": "MD",
@@ -9909,6 +10056,7 @@
     "independent": true
   },
   {
+    "id": 147,
     "name": "Monaco",
     "topLevelDomain": [".mc"],
     "alpha2Code": "MC",
@@ -9963,6 +10111,7 @@
     "independent": true
   },
   {
+    "id": 148,
     "name": "Mongolia",
     "topLevelDomain": [".mn"],
     "alpha2Code": "MN",
@@ -10018,6 +10167,7 @@
     "independent": true
   },
   {
+    "id": 149,
     "name": "Montenegro",
     "topLevelDomain": [".me"],
     "alpha2Code": "ME",
@@ -10097,6 +10247,7 @@
     "independent": true
   },
   {
+    "id": 150,
     "name": "Montserrat",
     "topLevelDomain": [".ms"],
     "alpha2Code": "MS",
@@ -10160,6 +10311,7 @@
     "independent": false
   },
   {
+    "id": 151,
     "name": "Morocco",
     "topLevelDomain": [".ma"],
     "alpha2Code": "MA",
@@ -10237,6 +10389,7 @@
     "independent": true
   },
   {
+    "id": 152,
     "name": "Mozambique",
     "topLevelDomain": [".mz"],
     "alpha2Code": "MZ",
@@ -10305,6 +10458,7 @@
     "independent": true
   },
   {
+    "id": 153,
     "name": "Myanmar",
     "topLevelDomain": [".mm"],
     "alpha2Code": "MM",
@@ -10371,6 +10525,7 @@
     "independent": true
   },
   {
+    "id": 154,
     "name": "Namibia",
     "topLevelDomain": [".na"],
     "alpha2Code": "NA",
@@ -10450,6 +10605,7 @@
     "independent": true
   },
   {
+    "id": 155,
     "name": "Nauru",
     "topLevelDomain": [".nr"],
     "alpha2Code": "NR",
@@ -10516,6 +10672,7 @@
     "independent": true
   },
   {
+    "id": 156,
     "name": "Nepal",
     "topLevelDomain": [".np"],
     "alpha2Code": "NP",
@@ -10581,6 +10738,7 @@
     "independent": true
   },
   {
+    "id": 157,
     "name": "Netherlands",
     "topLevelDomain": [".nl"],
     "alpha2Code": "NL",
@@ -10642,6 +10800,7 @@
     "independent": true
   },
   {
+    "id": 158,
     "name": "New Caledonia",
     "topLevelDomain": [".nc"],
     "alpha2Code": "NC",
@@ -10694,6 +10853,7 @@
     "independent": false
   },
   {
+    "id": 159,
     "name": "New Zealand",
     "topLevelDomain": [".nz"],
     "alpha2Code": "NZ",
@@ -10759,6 +10919,7 @@
     "independent": true
   },
   {
+    "id": 160,
     "name": "Nicaragua",
     "topLevelDomain": [".ni"],
     "alpha2Code": "NI",
@@ -10822,6 +10983,7 @@
     "independent": true
   },
   {
+    "id": 161,
     "name": "Niger",
     "topLevelDomain": [".ne"],
     "alpha2Code": "NE",
@@ -10890,6 +11052,7 @@
     "independent": true
   },
   {
+    "id": 162,
     "name": "Nigeria",
     "topLevelDomain": [".ng"],
     "alpha2Code": "NG",
@@ -10963,6 +11126,7 @@
     "independent": true
   },
   {
+    "id": 163,
     "name": "Niue",
     "topLevelDomain": [".nu"],
     "alpha2Code": "NU",
@@ -11020,6 +11184,7 @@
     "independent": true
   },
   {
+    "id": 164,
     "name": "Norfolk Island",
     "topLevelDomain": [".nf"],
     "alpha2Code": "NF",
@@ -11076,6 +11241,7 @@
     "independent": false
   },
   {
+    "id": 165,
     "name": "Korea (Democratic People's Republic of)",
     "topLevelDomain": [".kp"],
     "alpha2Code": "KP",
@@ -11135,6 +11301,7 @@
     "independent": true
   },
   {
+    "id": 166,
     "name": "Northern Mariana Islands",
     "topLevelDomain": [".mp"],
     "alpha2Code": "MP",
@@ -11197,6 +11364,7 @@
     "independent": false
   },
   {
+    "id": 167,
     "name": "Norway",
     "topLevelDomain": [".no"],
     "alpha2Code": "NO",
@@ -11277,6 +11445,7 @@
     "independent": true
   },
   {
+    "id": 168,
     "name": "Oman",
     "topLevelDomain": [".om"],
     "alpha2Code": "OM",
@@ -11342,6 +11511,7 @@
     "independent": true
   },
   {
+    "id": 169,
     "name": "Pakistan",
     "topLevelDomain": [".pk"],
     "alpha2Code": "PK",
@@ -11414,6 +11584,7 @@
     "independent": true
   },
   {
+    "id": 170,
     "name": "Palau",
     "topLevelDomain": [".pw"],
     "alpha2Code": "PW",
@@ -11467,6 +11638,7 @@
     "independent": true
   },
   {
+    "id": 171,
     "name": "Palestine, State of",
     "topLevelDomain": [".ps"],
     "alpha2Code": "PS",
@@ -11542,6 +11714,7 @@
     "independent": true
   },
   {
+    "id": 172,
     "name": "Panama",
     "topLevelDomain": [".pa"],
     "alpha2Code": "PA",
@@ -11610,6 +11783,7 @@
     "independent": true
   },
   {
+    "id": 173,
     "name": "Papua New Guinea",
     "topLevelDomain": [".pg"],
     "alpha2Code": "PG",
@@ -11669,6 +11843,7 @@
     "independent": true
   },
   {
+    "id": 174,
     "name": "Paraguay",
     "topLevelDomain": [".py"],
     "alpha2Code": "PY",
@@ -11748,6 +11923,7 @@
     "independent": true
   },
   {
+    "id": 175,
     "name": "Peru",
     "topLevelDomain": [".pe"],
     "alpha2Code": "PE",
@@ -11821,6 +11997,7 @@
     "independent": true
   },
   {
+    "id": 176,
     "name": "Philippines",
     "topLevelDomain": [".ph"],
     "alpha2Code": "PH",
@@ -11885,6 +12062,7 @@
     "independent": true
   },
   {
+    "id": 177,
     "name": "Pitcairn",
     "topLevelDomain": [".pn"],
     "alpha2Code": "PN",
@@ -11942,6 +12120,7 @@
     "independent": true
   },
   {
+    "id": 178,
     "name": "Poland",
     "topLevelDomain": [".pl"],
     "alpha2Code": "PL",
@@ -12003,6 +12182,7 @@
     "independent": true
   },
   {
+    "id": 179,
     "name": "Portugal",
     "topLevelDomain": [".pt"],
     "alpha2Code": "PT",
@@ -12069,6 +12249,7 @@
     "independent": true
   },
   {
+    "id": 180,
     "name": "Puerto Rico",
     "topLevelDomain": [".pr"],
     "alpha2Code": "PR",
@@ -12132,6 +12313,7 @@
     "independent": false
   },
   {
+    "id": 181,
     "name": "Qatar",
     "topLevelDomain": [".qa"],
     "alpha2Code": "QA",
@@ -12197,6 +12379,7 @@
     "independent": true
   },
   {
+    "id": 182,
     "name": "Republic of Kosovo",
     "topLevelDomain": [""],
     "alpha2Code": "XK",
@@ -12263,6 +12446,7 @@
     "independent": true
   },
   {
+    "id": 183,
     "name": "Réunion",
     "topLevelDomain": [".re"],
     "alpha2Code": "RE",
@@ -12327,6 +12511,7 @@
     "independent": false
   },
   {
+    "id": 184,
     "name": "Romania",
     "topLevelDomain": [".ro"],
     "alpha2Code": "RO",
@@ -12388,6 +12573,7 @@
     "independent": true
   },
   {
+    "id": 185,
     "name": "Russian Federation",
     "topLevelDomain": [".ru"],
     "alpha2Code": "RU",
@@ -12481,6 +12667,7 @@
     "independent": true
   },
   {
+    "id": 186,
     "name": "Rwanda",
     "topLevelDomain": [".rw"],
     "alpha2Code": "RW",
@@ -12566,6 +12753,7 @@
     "independent": true
   },
   {
+    "id": 187,
     "name": "Saint Barthélemy",
     "topLevelDomain": [".bl"],
     "alpha2Code": "BL",
@@ -12623,6 +12811,7 @@
     "independent": false
   },
   {
+    "id": 188,
     "name": "Saint Helena, Ascension and Tristan da Cunha",
     "topLevelDomain": [".sh"],
     "alpha2Code": "SH",
@@ -12687,6 +12876,7 @@
     "independent": false
   },
   {
+    "id": 189,
     "name": "Saint Kitts and Nevis",
     "topLevelDomain": [".kn"],
     "alpha2Code": "KN",
@@ -12751,6 +12941,7 @@
     "independent": true
   },
   {
+    "id": 190,
     "name": "Saint Lucia",
     "topLevelDomain": [".lc"],
     "alpha2Code": "LC",
@@ -12816,6 +13007,7 @@
     "independent": true
   },
   {
+    "id": 191,
     "name": "Saint Martin (French part)",
     "topLevelDomain": [".mf", ".fr", ".gp"],
     "alpha2Code": "MF",
@@ -12885,6 +13077,7 @@
     "independent": false
   },
   {
+    "id": 192,
     "name": "Saint Pierre and Miquelon",
     "topLevelDomain": [".pm"],
     "alpha2Code": "PM",
@@ -12940,6 +13133,7 @@
     "independent": false
   },
   {
+    "id": 193,
     "name": "Saint Vincent and the Grenadines",
     "topLevelDomain": [".vc"],
     "alpha2Code": "VC",
@@ -13004,6 +13198,7 @@
     "independent": true
   },
   {
+    "id": 194,
     "name": "Samoa",
     "topLevelDomain": [".ws"],
     "alpha2Code": "WS",
@@ -13068,6 +13263,7 @@
     "independent": true
   },
   {
+    "id": 195,
     "name": "San Marino",
     "topLevelDomain": [".sm"],
     "alpha2Code": "SM",
@@ -13126,6 +13322,7 @@
     "independent": true
   },
   {
+    "id": 196,
     "name": "Sao Tome and Principe",
     "topLevelDomain": [".st"],
     "alpha2Code": "ST",
@@ -13197,6 +13394,7 @@
     "independent": true
   },
   {
+    "id": 197,
     "name": "Saudi Arabia",
     "topLevelDomain": [".sa"],
     "alpha2Code": "SA",
@@ -13266,6 +13464,7 @@
     "independent": true
   },
   {
+    "id": 198,
     "name": "Senegal",
     "topLevelDomain": [".sn"],
     "alpha2Code": "SN",
@@ -13334,6 +13533,7 @@
     "independent": true
   },
   {
+    "id": 199,
     "name": "Serbia",
     "topLevelDomain": [".rs"],
     "alpha2Code": "RS",
@@ -13401,6 +13601,7 @@
     "independent": true
   },
   {
+    "id": 200,
     "name": "Seychelles",
     "topLevelDomain": [".sc"],
     "alpha2Code": "SC",
@@ -13479,6 +13680,7 @@
     "independent": true
   },
   {
+    "id": 201,
     "name": "Sierra Leone",
     "topLevelDomain": [".sl"],
     "alpha2Code": "SL",
@@ -13547,6 +13749,7 @@
     "independent": true
   },
   {
+    "id": 202,
     "name": "Singapore",
     "topLevelDomain": [".sg"],
     "alpha2Code": "SG",
@@ -13624,6 +13827,7 @@
     "independent": true
   },
   {
+    "id": 203,
     "name": "Sint Maarten (Dutch part)",
     "topLevelDomain": [".sx"],
     "alpha2Code": "SX",
@@ -13683,6 +13887,7 @@
     "independent": false
   },
   {
+    "id": 204,
     "name": "Slovakia",
     "topLevelDomain": [".sk"],
     "alpha2Code": "SK",
@@ -13744,6 +13949,7 @@
     "independent": true
   },
   {
+    "id": 205,
     "name": "Slovenia",
     "topLevelDomain": [".si"],
     "alpha2Code": "SI",
@@ -13805,6 +14011,7 @@
     "independent": true
   },
   {
+    "id": 206,
     "name": "Solomon Islands",
     "topLevelDomain": [".sb"],
     "alpha2Code": "SB",
@@ -13859,6 +14066,7 @@
     "independent": true
   },
   {
+    "id": 207,
     "name": "Somalia",
     "topLevelDomain": [".so"],
     "alpha2Code": "SO",
@@ -13948,6 +14156,7 @@
     "independent": true
   },
   {
+    "id": 208,
     "name": "South Africa",
     "topLevelDomain": [".za"],
     "alpha2Code": "ZA",
@@ -14070,6 +14279,7 @@
     "independent": true
   },
   {
+    "id": 209,
     "name": "South Georgia and the South Sandwich Islands",
     "topLevelDomain": [".gs"],
     "alpha2Code": "GS",
@@ -14134,6 +14344,7 @@
     "independent": false
   },
   {
+    "id": 210,
     "name": "Korea (Republic of)",
     "topLevelDomain": [".kr"],
     "alpha2Code": "KR",
@@ -14189,6 +14400,7 @@
     "independent": true
   },
   {
+    "id": 211,
     "name": "Spain",
     "topLevelDomain": [".es"],
     "alpha2Code": "ES",
@@ -14250,6 +14462,7 @@
     "independent": true
   },
   {
+    "id": 212,
     "name": "Sri Lanka",
     "topLevelDomain": [".lk"],
     "alpha2Code": "LK",
@@ -14321,6 +14534,7 @@
     "independent": true
   },
   {
+    "id": 213,
     "name": "Sudan",
     "topLevelDomain": [".sd"],
     "alpha2Code": "SD",
@@ -14404,6 +14618,7 @@
     "independent": true
   },
   {
+    "id": 214,
     "name": "South Sudan",
     "topLevelDomain": [".ss"],
     "alpha2Code": "SS",
@@ -14472,6 +14687,7 @@
     "independent": true
   },
   {
+    "id": 215,
     "name": "Suriname",
     "topLevelDomain": [".sr"],
     "alpha2Code": "SR",
@@ -14555,6 +14771,7 @@
     "independent": true
   },
   {
+    "id": 216,
     "name": "Svalbard and Jan Mayen",
     "topLevelDomain": [".sj"],
     "alpha2Code": "SJ",
@@ -14606,6 +14823,7 @@
     "independent": false
   },
   {
+    "id": 217,
     "name": "Swaziland",
     "topLevelDomain": [".sz"],
     "alpha2Code": "SZ",
@@ -14687,6 +14905,7 @@
     "independent": true
   },
   {
+    "id": 218,
     "name": "Sweden",
     "topLevelDomain": [".se"],
     "alpha2Code": "SE",
@@ -14748,6 +14967,7 @@
     "independent": true
   },
   {
+    "id": 219,
     "name": "Switzerland",
     "topLevelDomain": [".ch"],
     "alpha2Code": "CH",
@@ -14832,6 +15052,7 @@
     "independent": true
   },
   {
+    "id": 220,
     "name": "Syrian Arab Republic",
     "topLevelDomain": [".sy"],
     "alpha2Code": "SY",
@@ -14902,6 +15123,7 @@
     "independent": true
   },
   {
+    "id": 221,
     "name": "Taiwan",
     "topLevelDomain": [".tw"],
     "alpha2Code": "TW",
@@ -14961,6 +15183,7 @@
     "independent": true
   },
   {
+    "id": 222,
     "name": "Tajikistan",
     "topLevelDomain": [".tj"],
     "alpha2Code": "TJ",
@@ -15028,6 +15251,7 @@
     "independent": true
   },
   {
+    "id": 223,
     "name": "Tanzania, United Republic of",
     "topLevelDomain": [".tz"],
     "alpha2Code": "TZ",
@@ -15106,6 +15330,7 @@
     "independent": true
   },
   {
+    "id": 224,
     "name": "Thailand",
     "topLevelDomain": [".th"],
     "alpha2Code": "TH",
@@ -15174,6 +15399,7 @@
     "independent": true
   },
   {
+    "id": 225,
     "name": "Timor-Leste",
     "topLevelDomain": [".tl"],
     "alpha2Code": "TL",
@@ -15235,6 +15461,7 @@
     "independent": true
   },
   {
+    "id": 226,
     "name": "Togo",
     "topLevelDomain": [".tg"],
     "alpha2Code": "TG",
@@ -15308,6 +15535,7 @@
     "independent": true
   },
   {
+    "id": 227,
     "name": "Tokelau",
     "topLevelDomain": [".tk"],
     "alpha2Code": "TK",
@@ -15360,6 +15588,7 @@
     "independent": false
   },
   {
+    "id": 228,
     "name": "Tonga",
     "topLevelDomain": [".to"],
     "alpha2Code": "TO",
@@ -15420,6 +15649,7 @@
     "independent": true
   },
   {
+    "id": 229,
     "name": "Trinidad and Tobago",
     "topLevelDomain": [".tt"],
     "alpha2Code": "TT",
@@ -15485,6 +15715,7 @@
     "independent": true
   },
   {
+    "id": 230,
     "name": "Tunisia",
     "topLevelDomain": [".tn"],
     "alpha2Code": "TN",
@@ -15566,6 +15797,7 @@
     "independent": true
   },
   {
+    "id": 231,
     "name": "Turkey",
     "topLevelDomain": [".tr"],
     "alpha2Code": "TR",
@@ -15626,6 +15858,7 @@
     "independent": true
   },
   {
+    "id": 232,
     "name": "Turkmenistan",
     "topLevelDomain": [".tm"],
     "alpha2Code": "TM",
@@ -15687,6 +15920,7 @@
     "independent": true
   },
   {
+    "id": 233,
     "name": "Turks and Caicos Islands",
     "topLevelDomain": [".tc"],
     "alpha2Code": "TC",
@@ -15739,6 +15973,7 @@
     "independent": false
   },
   {
+    "id": 234,
     "name": "Tuvalu",
     "topLevelDomain": [".tv"],
     "alpha2Code": "TV",
@@ -15798,6 +16033,7 @@
     "independent": true
   },
   {
+    "id": 235,
     "name": "Uganda",
     "topLevelDomain": [".ug"],
     "alpha2Code": "UG",
@@ -15872,6 +16108,7 @@
     "independent": true
   },
   {
+    "id": 236,
     "name": "Ukraine",
     "topLevelDomain": [".ua"],
     "alpha2Code": "UA",
@@ -15927,6 +16164,7 @@
     "independent": true
   },
   {
+    "id": 237,
     "name": "United Arab Emirates",
     "topLevelDomain": [".ae"],
     "alpha2Code": "AE",
@@ -15993,6 +16231,7 @@
     "independent": true
   },
   {
+    "id": 238,
     "name": "United Kingdom of Great Britain and Northern Ireland",
     "topLevelDomain": [".uk"],
     "alpha2Code": "GB",
@@ -16058,6 +16297,7 @@
     "independent": true
   },
   {
+    "id": 239,
     "name": "United States of America",
     "topLevelDomain": [".us"],
     "alpha2Code": "US",
@@ -16135,6 +16375,7 @@
     "independent": true
   },
   {
+    "id": 240,
     "name": "Uruguay",
     "topLevelDomain": [".uy"],
     "alpha2Code": "UY",
@@ -16207,6 +16448,7 @@
     "independent": true
   },
   {
+    "id": 241,
     "name": "Uzbekistan",
     "topLevelDomain": [".uz"],
     "alpha2Code": "UZ",
@@ -16273,6 +16515,7 @@
     "independent": false
   },
   {
+    "id": 242,
     "name": "Vanuatu",
     "topLevelDomain": [".vu"],
     "alpha2Code": "VU",
@@ -16344,6 +16587,7 @@
     "independent": true
   },
   {
+    "id": 243,
     "name": "Venezuela (Bolivarian Republic of)",
     "topLevelDomain": [".ve"],
     "alpha2Code": "VE",
@@ -16416,6 +16660,7 @@
     "independent": true
   },
   {
+    "id": 244,
     "name": "Vietnam",
     "topLevelDomain": [".vn"],
     "alpha2Code": "VN",
@@ -16481,6 +16726,7 @@
     "independent": true
   },
   {
+    "id": 245,
     "name": "Wallis and Futuna",
     "topLevelDomain": [".wf"],
     "alpha2Code": "WF",
@@ -16537,6 +16783,7 @@
     "independent": false
   },
   {
+    "id": 246,
     "name": "Western Sahara",
     "topLevelDomain": [".eh"],
     "alpha2Code": "EH",
@@ -16608,6 +16855,7 @@
     "independent": false
   },
   {
+    "id": 247,
     "name": "Yemen",
     "topLevelDomain": [".ye"],
     "alpha2Code": "YE",
@@ -16674,6 +16922,7 @@
     "independent": true
   },
   {
+    "id": 248,
     "name": "Zambia",
     "topLevelDomain": [".zm"],
     "alpha2Code": "ZM",
@@ -16742,6 +16991,7 @@
     "independent": true
   },
   {
+    "id": 249,
     "name": "Zimbabwe",
     "topLevelDomain": [".zw"],
     "alpha2Code": "ZW",
