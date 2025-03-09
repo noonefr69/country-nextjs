@@ -11,7 +11,7 @@ export default async function Page({ params }) {
   };
 
   return (
-    <div className="p-16 max-w-[1440px] mx-auto">
+    <div className="md:p-16 p-10 max-w-[1440px] mx-auto">
       <nav className="pb-16">
         <Link
           className="dark:bg-[hsl(209,23%,22%)] bg-white flex items-center shadow-md w-fit px-7 gap-4 py-2 border border-transparent duration-150 rounded hover:border-[#0000000a]"
@@ -68,7 +68,7 @@ export default async function Page({ params }) {
               </li>
               <li className="text-lg font-semibold flex items-center gap-1">
                 Languages:{" "}
-                <span className="flex space-x-1 items-center">
+                <span className="flex flex-wrap space-x-1 items-center">
                   {country.languages.map((language, index) => (
                     <span className="font-normal" key={index}>
                       {language.name},
