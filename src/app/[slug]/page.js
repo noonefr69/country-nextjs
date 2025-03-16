@@ -3,9 +3,20 @@ import Image from "next/image";
 import Link from "next/link";
 import { FaArrowLeftLong } from "react-icons/fa6";
 
-export default async function Page({ params }) {
+export async function generateMetadata({ params, searchParams }) {
+  const { slug } = await params;
+
   const country = await datas[params.slug];
 
+  return {
+    title: country.name,
+    description: `You are in ${country.name} page`
+  };
+}
+
+export default async function Page({ params }) {
+  const country = await datas[params.slug];
+console.log(datas);
   const findCountryByBorderCode = (borderCode) => {
     return datas.find((data) => data.alpha3Code === borderCode);
   };
